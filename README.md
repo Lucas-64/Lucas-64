@@ -66,7 +66,7 @@ _To start, I'm proficient in front-end development, with expertise in ReactJS, H
 ##
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CFF33&size=35&center=true&vCenter=true&width=1000&lines=Minhas+redes+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CFF33&size=35&center=true&vCenter=true&width=1000&lines=My+networks+😎)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://instagram.com/lucas_l64" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
