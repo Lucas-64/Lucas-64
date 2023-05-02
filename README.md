@@ -15,6 +15,14 @@
  
 ##
  
+ <div align="center">
+<h3>About me </h3>
+ </div>
+ <br>
+ 
+_To start, I'm proficient in front-end development, with expertise in ReactJS, HTML, and CSS. Currently, my focus is on project management and agile methodologies. I believe that my combination of technical skills and experience in team leadership will enable me to deliver successful software projects..
+ 
+##
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lucas-64}/count.svg" /></p> 
@@ -43,7 +51,7 @@
 ##
 
 - 🔭 Front-end Developer
-- 🌱 Estudando TypeScript e metodologias ágeis
+- 🌱 studying  TypeScript and agile methodologies
 - 😄 Pronouns: Ele / Dele
 - ⚡ Fun fact: I never bought toilet paper 
 
