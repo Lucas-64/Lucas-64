@@ -1,4 +1,7 @@
-### Iea, Lusca aqui !! 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CFF33&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CFF33&size=35&center=true&vCenter=true&width=1000&lines=IAE,+My+name+is+Lucas+Lima;I'm+25+years+old;I'm+from+Brazil;I'm+an+undergraduate+student+in+Computer+Science;Be+Welcome!+😉)](https://git.io/typing-svg)
+
 ##
  <div>
   <a href="https://github.com/Lucas-64">
@@ -8,7 +11,25 @@
 
 ##
 
-<div style="display: inline_block"><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-64&bg_color=000000&color=4cff33&line=4cff33&point=DADADA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+##
+ 
+<div align="center">
+<br><p align="centre"><b>Visitors</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lucas-64}/count.svg" /></p> 
+<br>
+</div>
+
+##
+ 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-64&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+ 
+##
+ 
+<div><br>
   <img align="center" alt="Lucas-64-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Lucas-64-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lucas-64-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -28,7 +49,7 @@
 
 ##
 
- <div style="display: inline_block">
+ <div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qio8sdtqpwukto270fp2xvrpf&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
@@ -36,11 +57,14 @@
 
 ##
 
-Minhas redes 😎
-<div> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CFF33&size=35&center=true&vCenter=true&width=1000&lines=Minhas+redes+😎)](https://git.io/typing-svg)
+
+<div align="center">
   <a href="https://instagram.com/lucas_l64" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: llbn_97@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lima64/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://open.spotify.com/user/qio8sdtqpwukto270fp2xvrpf?si=e59de05c662e4525" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CFF33&height=120&section=footer"/>
