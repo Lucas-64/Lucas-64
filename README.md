@@ -11,7 +11,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-64&bg_color=000000&color=4cff33&line=4cff33&point=DADADA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-64&theme=github-compact)](https://github.com/Lucas-64/github-readme-activity-graph)
  
 ##
  
