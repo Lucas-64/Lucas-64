@@ -158,19 +158,20 @@ I like to build with intention — combining front-end skills, product thinking 
       </p>
       <img src="https://img.shields.io/badge/Status-Private_Local_Lab-4CFF33?style=for-the-badge&logo=files&logoColor=black" alt="Private local lab" />
     </td>
-    <td width="50%" valign="top">
-      <h3>🎮 WhatsApp Game Bot</h3>
-      <p>
-        A personal bot project created to run an interactive card and collection game inside WhatsApp groups.
-      </p>
-      <p>
-        <strong>Stack:</strong> Node.js, TypeScript, SQLite, WhatsApp automation
-      </p>
-      <p>
-        <strong>Focus:</strong> Game logic, commands, ranking, events and user interaction.
-      </p>
-      <img src="https://img.shields.io/badge/Status-Personal_Project-4CFF33?style=for-the-badge&logo=whatsapp&logoColor=black" alt="Personal project" />
-    </td>
+  <td width="50%" valign="top">
+  <img src="./assets/projects/whatsapp-game-bot.svg" width="100%" alt="WhatsApp Game Bot project card" />
+  <h3>🎮 WhatsApp Game Bot</h3>
+  <p>
+    A personal bot project created to run an interactive card and collection game inside WhatsApp groups.
+  </p>
+  <p>
+    <strong>Stack:</strong> Node.js, TypeScript, SQLite, WhatsApp automation
+  </p>
+  <p>
+    <strong>Focus:</strong> Game logic, commands, ranking, events and user interaction.
+  </p>
+  <img src="https://img.shields.io/badge/Status-Personal_Project-4CFF33?style=for-the-badge&logo=whatsapp&logoColor=black" alt="Personal project" />
+</td>
   </tr>
 </table>
 <img width="100%" src="./assets/neon-line.svg" alt="Neon line separator" />
