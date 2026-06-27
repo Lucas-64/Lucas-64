@@ -137,37 +137,63 @@ I like to connect the technical side of development with a product and delivery 
 
 <br>
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,git,github,vscode" alt="Tech stack icons" />
+  <p>
+    Technologies and tools I use to build, organize and deliver software projects.
+  </p>
 </div>
 
 <br>
 
-| Area                | Technologies and tools                                                   |
-| ------------------- | ------------------------------------------------------------------------ |
-| **Front-end**       | React, Next.js, TypeScript, JavaScript, HTML5, CSS3                      |
-| **Styling & UI**    | Responsive layouts, component-based UI, Styled Components                |
-| **Back-end basics** | Node.js, REST APIs, C#, .NET                                             |
-| **Databases**       | SQL Server, PostgreSQL, SQLite, MySQL                                    |
-| **Delivery**        | Scrum, Kanban, Jira, Azure DevOps, documentation and process improvement |
+<div align="center">
+
+### Front-end Core
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="Front-end stack" />
+
+<br>
+<br>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,figma" alt="Tools and workflow" />
+
+<br>
+<br>
+
+### Databases & Back-end Experience
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,dotnet" alt="Databases and back-end experience" />
+
+</div>
 
 <br>
 
-<img width="100%" src="./assets/neon-line.svg" alt="Neon line separator" />
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎨 Front-end</h3>
+      <p>
+        React, Next.js, TypeScript, JavaScript, HTML5, CSS3, responsive layouts and component-based interfaces.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧱 UI & Architecture</h3>
+      <p>
+        Reusable components, clean structure, styling patterns, interface consistency and maintainable front-end code.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 Delivery</h3>
+      <p>
+        Scrum, Kanban, documentation, planning, team collaboration, process improvement and agile delivery.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-## 🧭 Front-end with delivery mindset
-
-I believe good front-end is not just about making things look nice.
-
-A strong interface should be clear, accessible, maintainable and connected to real user needs. My background with agile teams and project management helps me think beyond the screen: requirements, priorities, communication, delivery flow and continuous improvement also matter.
-
-That mix helps me build with more intention.
-
-<br>
 
 <img width="100%" src="./assets/neon-line.svg" alt="Neon line separator" />
 
