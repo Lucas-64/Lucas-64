@@ -1,0 +1,71 @@
+<svg width="600" height="320" viewBox="0 0 600 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">WhatsApp Game Bot</title>
+  <desc id="desc">Project card for a WhatsApp interactive card game bot built with Node.js, TypeScript and SQLite.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B0F14"/>
+      <stop offset="0.55" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#090C10"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(460 70) rotate(135) scale(300 240)">
+      <stop stop-color="#4CFF33" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#4CFF33" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#4CFF33" stroke-width="0.6" opacity="0.10"/>
+    </pattern>
+
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="600" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="600" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="600" height="320" rx="24" fill="url(#glow)"/>
+  <rect x="1" y="1" width="598" height="318" rx="23" stroke="#4CFF33" stroke-opacity="0.35"/>
+
+  <circle cx="516" cy="62" r="38" fill="#4CFF33" opacity="0.14" filter="url(#softGlow)"/>
+  <circle cx="516" cy="62" r="22" fill="#4CFF33" opacity="0.18"/>
+  <path d="M505 61.5C505 55.1 510.1 50 516.5 50C522.9 50 528 55.1 528 61.5C528 67.9 522.9 73 516.5 73C514.9 73 513.4 72.7 512.1 72.1L505 74L506.9 67.2C505.7 65.5 505 63.6 505 61.5Z" stroke="#4CFF33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="42" y="70" fill="#4CFF33" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="600">
+    PERSONAL PROJECT
+  </text>
+
+  <text x="42" y="122" fill="#E6EDF3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">
+    WhatsApp Game Bot
+  </text>
+
+  <text x="42" y="166" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">
+    Interactive card collection game inside
+  </text>
+
+  <text x="42" y="194" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">
+    WhatsApp groups with events and rankings.
+  </text>
+
+  <rect x="42" y="228" width="94" height="34" rx="17" fill="#4CFF33" fill-opacity="0.12" stroke="#4CFF33" stroke-opacity="0.4"/>
+  <text x="65" y="250" fill="#4CFF33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    Node.js
+  </text>
+
+  <rect x="148" y="228" width="112" height="34" rx="17" fill="#4CFF33" fill-opacity="0.12" stroke="#4CFF33" stroke-opacity="0.4"/>
+  <text x="171" y="250" fill="#4CFF33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    TypeScript
+  </text>
+
+  <rect x="272" y="228" width="82" height="34" rx="17" fill="#4CFF33" fill-opacity="0.12" stroke="#4CFF33" stroke-opacity="0.4"/>
+  <text x="294" y="250" fill="#4CFF33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    SQLite
+  </text>
+
+  <path d="M42 288 H558" stroke="#4CFF33" stroke-opacity="0.55" stroke-width="2" filter="url(#softGlow)"/>
+</svg>
