@@ -239,19 +239,64 @@ I like to build with intention — combining front-end skills, product thinking 
 
 <br>
 
-## 📈 GitHub insights
+## 🧭 Experience Timeline
 
 <div align="center">
-  <a href="https://github.com/Lucas-64">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lucas-64&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4CFF33&icon_color=4CFF33&text_color=E6EDF3" alt="Lucas Lima GitHub stats" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-64&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=4CFF33&text_color=E6EDF3" alt="Most used languages" />
-  </a>
+  <p>
+    A quick view of my path through development, agile teams, support routines and project delivery.
+  </p>
 </div>
 
 <br>
 
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>💻 Front-end</h3>
+      <p>
+        Started building web interfaces with HTML, CSS, JavaScript, React and component-based development.
+      </p>
+      <p>
+        <strong>Focus:</strong> UI, responsiveness and web foundations.
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🧩 Support & Systems</h3>
+      <p>
+        Worked with system support, bug analysis, databases, technical documentation and complex software flows.
+      </p>
+      <p>
+        <strong>Focus:</strong> Problem solving, debugging and production routines.
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>⚙️ Full Stack</h3>
+      <p>
+        Expanded my experience with front-end, back-end, APIs, databases and software maintenance.
+      </p>
+      <p>
+        <strong>Focus:</strong> React, .NET, SQL and integration between systems.
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>📊 Agile & Delivery</h3>
+      <p>
+        Developed experience with Scrum, PMO routines, documentation, planning, team organization and delivery processes.
+      </p>
+      <p>
+        <strong>Focus:</strong> Collaboration, process improvement and product delivery.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-64&bg_color=0D1117&color=E6EDF3&line=4CFF33&point=4CFF33&area=true&hide_border=true" alt="Lucas Lima GitHub activity graph" />
+  <img src="https://img.shields.io/badge/Front--end-4CFF33?style=for-the-badge&logo=react&logoColor=black" alt="Front-end" />
+  <img src="https://img.shields.io/badge/Full--stack-4CFF33?style=for-the-badge&logo=javascript&logoColor=black" alt="Full-stack" />
+  <img src="https://img.shields.io/badge/Agile-4CFF33?style=for-the-badge&logo=jira&logoColor=black" alt="Agile" />
+  <img src="https://img.shields.io/badge/Delivery-4CFF33?style=for-the-badge&logo=azuredevops&logoColor=black" alt="Delivery" />
 </div>
 
 <br>
@@ -260,23 +305,72 @@ I like to build with intention — combining front-end skills, product thinking 
 
 <br>
 
-## 🌎 Let's connect
+## 📈 GitHub Insights
+
+<div align="center">
+  <p>
+    A quick look at my GitHub activity, main technologies and coding journey.
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Lucas-64">
+    <img 
+      height="165em" 
+      src="https://github-readme-stats.vercel.app/api?username=Lucas-64&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4CFF33&icon_color=4CFF33&text_color=E6EDF3" 
+      alt="Lucas Lima GitHub stats" 
+    />
+    <img 
+      height="165em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-64&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=4CFF33&text_color=E6EDF3" 
+      alt="Most used languages" 
+    />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img 
+    width="100%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-64&bg_color=0D1117&color=E6EDF3&line=4CFF33&point=4CFF33&area=true&hide_border=true" 
+    alt="Lucas Lima GitHub activity graph" 
+  />
+</div>
+
+<br>
+
+<img width="100%" src="./assets/neon-line.svg" alt="Neon line separator" />
+
+<br>
+
+## 🌎 Let's Connect
+
+<div align="center">
+  <p>
+    Feel free to reach out if you want to talk about front-end development, projects, product ideas or collaboration opportunities.
+  </p>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://l64.net.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4CFF33?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="https://instagram.com/lucas_l64" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/lucas-lima64/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4CFF33?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:llbn_97@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-4CFF33?style=for-the-badge&logo=microsoft-outlook&logoColor=black" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-lima64/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://instagram.com/lucas_l64" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-4CFF33?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
   <a href="https://open.spotify.com/user/qio8sdtqpwukto270fp2xvrpf?si=e59de05c662e4525" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-4CFF33?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify" />
   </a>
 </div>
 
@@ -284,4 +378,22 @@ I like to build with intention — combining front-end skills, product thinking 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucas-64&color=brightgreen&style=flat-square" alt="Profile views" />
+</div>
+
+<br>
+
+<img width="100%" src="./assets/neon-line.svg" alt="Neon line separator" />
+
+<br>
+
+<div align="center">
+  <sub>
+    Built with focus on clean interfaces, useful products and continuous improvement.
+  </sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CFF33&height=100&section=footer" width="100%" alt="Footer wave" />
 </div>
