@@ -113,21 +113,27 @@ I like to build with intention — combining front-end skills, product thinking 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      <p>
-        A personal website created to present my experience, projects and professional background through a clean and responsive interface.
-      </p>
-      <p>
-        <strong>Stack:</strong> Front-end, responsive UI, personal branding
-      </p>
-      <p>
-        <strong>Focus:</strong> Layout, content structure, visual identity and professional positioning.
-      </p>
-      <a href="https://l64.net.br/" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-4CFF33?style=for-the-badge&logo=vercel&logoColor=black" alt="View project" />
-      </a>
-    </td>
+   <td width="50%" valign="top">
+  <img src="./assets/projects/personal-portfolio.svg" width="100%" alt="Personal Portfolio project card" />
+
+  <h3>🌐 About the project</h3>
+
+  <p>
+    A personal portfolio website built with HTML, CSS and JavaScript to present my studies, projects and professional development in technology.
+  </p>
+
+  <p>
+    <strong>Stack:</strong> HTML, CSS, JavaScript
+  </p>
+
+  <p>
+    <strong>Focus:</strong> Front-end practice, project management studies, agile content, documentation and professional positioning.
+  </p>
+
+  <a href="https://l64.net.br/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-4CFF33?style=for-the-badge&logo=vercel&logoColor=black" alt="View project" />
+  </a>
+</td>
     <td width="50%" valign="top">
       <h3>⚡ Front-end Interface Lab</h3>
       <p>
