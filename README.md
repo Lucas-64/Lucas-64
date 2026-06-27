@@ -35,11 +35,13 @@
 
 ## 👋 About me
 
-I'm **Lucas Lima**, a developer focused on building clean, responsive and useful web experiences.
+I'm **Lucas Lima**, a developer focused on creating clean, responsive and useful web interfaces.
 
-My main path is **Front-end Development**, especially with **React**, **Next.js**, **TypeScript** and modern web interfaces. I also bring experience with **Agile Project Management**, software delivery, documentation, support, bug analysis and team organization.
+My main focus is **Front-end Development**, working with technologies such as **React**, **Next.js**, **TypeScript**, **JavaScript**, **HTML** and **CSS**. I enjoy building interfaces that are not only visually appealing, but also well-structured, maintainable and connected to real user needs.
 
-I like to connect the technical side of development with a product and delivery mindset: not only building screens, but understanding problems, improving flows and helping ideas become real solutions.
+Beyond development, I also bring experience with **Agile Project Management**, software delivery, documentation, support routines, bug analysis and team organization. This background helps me think beyond the screen: understanding requirements, improving processes and collaborating better with teams.
+
+I like to build with intention — combining front-end skills, product thinking and a delivery mindset to turn ideas into real solutions.
 
 <br>
 
@@ -57,9 +59,47 @@ I like to connect the technical side of development with a product and delivery 
 
 <br>
 
+## 🚧 Currently Building
+
+<div align="center">
+  <p>
+    Projects and ideas I'm currently improving, experimenting with or preparing to publish.
+  </p>
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Front-end Portfolio</h3>
+      <p>
+        Improving my personal portfolio with better structure, visual identity and project presentation.
+      </p>
+      <img src="https://img.shields.io/badge/Focus-Front--end-4CFF33?style=for-the-badge&logo=react&logoColor=black" alt="Front-end focus" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>📄 AI Docs Generator</h3>
+      <p>
+        Exploring ways to transform a local AI documentation workflow into a more accessible web experience.
+      </p>
+      <img src="https://img.shields.io/badge/Status-Local_Lab-4CFF33?style=for-the-badge&logo=files&logoColor=black" alt="Local lab" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎮 Interactive Projects</h3>
+      <p>
+        Building personal experiments that mix automation, games, user interaction and creative interfaces.
+      </p>
+      <img src="https://img.shields.io/badge/Lab-Creative_Code-4CFF33?style=for-the-badge&logo=javascript&logoColor=black" alt="Creative code" />
+    </td>
+  </tr>
+</table>
+<br>
+
 <img width="100%" src="./assets/neon-line.svg" alt="Neon line separator" />
 
 <br>
+
 
 ## ⭐ Featured Projects & Labs
 
