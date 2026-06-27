@@ -5,17 +5,12 @@
 <br>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?<div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Lucas Lima - Front-end Developer banner" />
-</div>
-
-<br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4CFF33&center=true&vCenter=true&width=820&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+and+modern+interfaces;Agile+mindset+with+product+thinking)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4CFF33&center=true&vCenter=true&width=820&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+and+modern+interfaces;Agile+mindset+with+product+thinking" 
+      alt="Typing SVG" 
+    />
+  </a>
 </div>
 
 <br>
