@@ -1,0 +1,24 @@
+<svg width="1200" height="10" viewBox="0 0 1200 10" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-label="Neon green separator">
+  <defs>
+    <linearGradient id="lineGradient" x1="0" y1="5" x2="1200" y2="5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4CFF33" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#4CFF33" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#4CFF33" stop-opacity="1"/>
+      <stop offset="0.82" stop-color="#4CFF33" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#4CFF33" stop-opacity="0"/>
+    </linearGradient>
+
+```
+<filter id="softGlow" x="-10%" y="-120%" width="120%" height="340%">
+  <feGaussianBlur stdDeviation="2" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+```
+
+  </defs>
+
+  <rect x="0" y="4" width="1200" height="2" rx="1" fill="url(#lineGradient)" filter="url(#softGlow)"/>
+</svg>

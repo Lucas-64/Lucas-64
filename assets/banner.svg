@@ -1,0 +1,74 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Lima - Front-end Developer</title>
+  <desc id="desc">Neon green GitHub profile banner for Lucas Lima, Front-end Developer.</desc>
+
+  <defs>
+    <linearGradient id="greenGlow" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4CFF33" stop-opacity="0.95"/>
+      <stop offset="0.48" stop-color="#4CFF33" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0.2"/>
+    </linearGradient>
+
+```
+<radialGradient id="radialGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 120) rotate(130) scale(520 420)">
+  <stop stop-color="#4CFF33" stop-opacity="0.28"/>
+  <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+</radialGradient>
+
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+  <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#4CFF33" stroke-width="0.7" opacity="0.18"/>
+</pattern>
+
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+  <feGaussianBlur stdDeviation="6" result="blur"/>
+  <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.298 0 0 0 0 1 0 0 0 0 0.2 0 0 0 0.8 0"/>
+  <feMerge>
+    <feMergeNode/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+```
+
+  </defs>
+
+  <rect width="1200" height="380" fill="#0D1117"/>
+  <rect width="1200" height="380" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1200" height="380" fill="url(#radialGlow)"/>
+
+  <path d="M72 312 C214 236 330 354 474 277 C620 199 741 253 861 179 C987 101 1080 122 1140 78" stroke="url(#greenGlow)" stroke-width="3" opacity="0.9" filter="url(#glow)"/>
+  <path d="M72 330 C238 260 332 366 492 296 C647 228 744 282 878 210 C1010 139 1092 150 1140 118" stroke="#4CFF33" stroke-width="1.2" opacity="0.35"/>
+
+  <rect x="70" y="62" width="620" height="230" rx="26" fill="#111827" opacity="0.84" stroke="#4CFF33" stroke-opacity="0.45"/>
+  <rect x="92" y="86" width="72" height="8" rx="4" fill="#4CFF33" opacity="0.9"/>
+  <rect x="174" y="86" width="42" height="8" rx="4" fill="#4CFF33" opacity="0.45"/>
+  <rect x="226" y="86" width="42" height="8" rx="4" fill="#4CFF33" opacity="0.25"/>
+
+  <text x="94" y="155" fill="#E6EDF3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1">
+    Lucas Lima
+  </text>
+
+  <text x="98" y="202" fill="#4CFF33" font-family="Fira Code, Consolas, monospace" font-size="24" font-weight="600">
+    Front-end Developer
+  </text>
+
+  <text x="98" y="242" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">
+    React • Next.js • TypeScript • UI Engineering
+  </text>
+
+  <text x="98" y="272" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">
+    Clean interfaces. Useful products. Delivery mindset.
+  </text>
+
+  <g opacity="0.95">
+    <rect x="810" y="88" width="300" height="184" rx="22" fill="#111827" stroke="#4CFF33" stroke-opacity="0.35"/>
+    <text x="842" y="138" fill="#4CFF33" font-family="Fira Code, Consolas, monospace" font-size="20">&lt;main&gt;</text>
+    <text x="872" y="178" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="18">build()</text>
+    <text x="872" y="212" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="18">ship()</text>
+    <text x="872" y="246" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="18">improve()</text>
+    <text x="842" y="292" fill="#4CFF33" font-family="Fira Code, Consolas, monospace" font-size="20">&lt;/main&gt;</text>
+  </g>
+
+  <circle cx="1110" cy="72" r="5" fill="#4CFF33" filter="url(#glow)"/>
+  <circle cx="760" cy="286" r="4" fill="#4CFF33" opacity="0.75"/>
+  <circle cx="1040" cy="318" r="3" fill="#4CFF33" opacity="0.65"/>
+</svg>
