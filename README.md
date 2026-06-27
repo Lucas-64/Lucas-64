@@ -71,41 +71,28 @@ I like to build with intention — combining front-end skills, product thinking 
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🌐 Front-end Portfolio</h3>
       <p>
-        Improving my personal portfolio with better structure, visual identity and project presentation.
+        Improving my personal portfolio as a visual hub for my studies, projects and professional development.
       </p>
-      <img src="https://img.shields.io/badge/Focus-Front--end-4CFF33?style=for-the-badge&logo=react&logoColor=black" alt="Front-end focus" />
+      <p>
+        <strong>Focus:</strong> HTML, CSS, JavaScript, responsive layout and content organization.
+      </p>
+      <img src="https://img.shields.io/badge/Status-Improving-4CFF33?style=for-the-badge&logo=html5&logoColor=black" alt="Improving portfolio" />
     </td>
- <td width="50%" valign="top">
-  <img src="./assets/projects/ai-documentation-generator.svg" width="100%" alt="AI Documentation Generator project card" />
-
-  <h3>📄 About the project</h3>
-
-  <p>
-    A local-first AI documentation lab designed to generate project management documents using local models, structured prompts, templates and automation workflows.
-  </p>
-
-  <p>
-    <strong>Stack:</strong> Python, Local LLMs, Prompt Engineering, Automation
-  </p>
-
-  <p>
-    <strong>Focus:</strong> Project documentation, privacy-first workflows, process automation and AI-assisted productivity.
-  </p>
-
-  <a href="https://github.com/Lucas-64/ai-documentation-generator" target="_blank">
-    <img src="https://img.shields.io/badge/View_Documentation-4CFF33?style=for-the-badge&logo=readthedocs&logoColor=black" alt="View documentation" />
-  </a>
+    <td width="50%" valign="top">
+      <h3>🎮 GTA Web Project</h3>
+      <p>
+        Building a web project inspired by GTA-style content, currently focused on structure, layout and visual direction.
+      </p>
+      <p>
+        <strong>Focus:</strong> Front-end practice, UI composition, visual identity and project organization.
+      </p>
+      <img src="https://img.shields.io/badge/Status-In_Progress-4CFF33?style=for-the-badge&logo=javascript&logoColor=black" alt="In progress" />
     </td>
   </tr>
 </table>
-<br>
-
-<img width="100%" src="./assets/neon-line.svg" alt="Neon line separator" />
-
-<br>
 
 
 ## ⭐ Featured Projects & Labs
