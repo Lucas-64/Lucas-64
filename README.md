@@ -91,31 +91,6 @@ I enjoy building real projects, organizing ideas into practical solutions, and u
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-64&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
-
-<br>
-
-## 🎧 Spotify
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qio8sdtqpwukto270fp2xvrpf\&cover_image=true\&theme=default\&show_offline=true\&background_color=121212\&interchange=true\&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
-
-<br>
 
 ## 🌎 My networks
 
