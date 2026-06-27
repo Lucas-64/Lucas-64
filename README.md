@@ -78,19 +78,26 @@ I like to build with intention — combining front-end skills, product thinking 
       </p>
       <img src="https://img.shields.io/badge/Focus-Front--end-4CFF33?style=for-the-badge&logo=react&logoColor=black" alt="Front-end focus" />
     </td>
-    <td width="33%" valign="top">
-      <h3>📄 AI Docs Generator</h3>
-      <p>
-        Exploring ways to transform a local AI documentation workflow into a more accessible web experience.
-      </p>
-      <img src="https://img.shields.io/badge/Status-Local_Lab-4CFF33?style=for-the-badge&logo=files&logoColor=black" alt="Local lab" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎮 Interactive Projects</h3>
-      <p>
-        Building personal experiments that mix automation, games, user interaction and creative interfaces.
-      </p>
-      <img src="https://img.shields.io/badge/Lab-Creative_Code-4CFF33?style=for-the-badge&logo=javascript&logoColor=black" alt="Creative code" />
+ <td width="50%" valign="top">
+  <img src="./assets/projects/ai-documentation-generator.svg" width="100%" alt="AI Documentation Generator project card" />
+
+  <h3>📄 About the project</h3>
+
+  <p>
+    A local-first AI documentation lab designed to generate project management documents using local models, structured prompts, templates and automation workflows.
+  </p>
+
+  <p>
+    <strong>Stack:</strong> Python, Local LLMs, Prompt Engineering, Automation
+  </p>
+
+  <p>
+    <strong>Focus:</strong> Project documentation, privacy-first workflows, process automation and AI-assisted productivity.
+  </p>
+
+  <a href="https://github.com/Lucas-64/ai-documentation-generator" target="_blank">
+    <img src="https://img.shields.io/badge/View_Documentation-4CFF33?style=for-the-badge&logo=readthedocs&logoColor=black" alt="View documentation" />
+  </a>
     </td>
   </tr>
 </table>
