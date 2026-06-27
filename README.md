@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4CFF33&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4CFF33&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Lucas+Lima;Front-end+Developer;Scrum+Master+%7C+Project+Management;React+%7C+Next.js+%7C+TypeScript;Welcome+to+my+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=32\&duration=3000\&pause=1000\&color=4CFF33\&center=true\&vCenter=true\&width=1000\&lines=Hey%2C+I'm+Lucas+Lima;Front-end+Developer;Scrum+Master+%7C+Project+Management;React+%7C+Next.js+%7C+TypeScript;Welcome+to+my+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
----
+<br>
 
 <div align="center">
   <a href="https://github.com/Lucas-64">
@@ -11,11 +11,19 @@
   </a>
 </div>
 
----
+<br>
 
-[![Lucas Lima's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-64&theme=github-compact&hide_border=true)](https://github.com/Lucas-64)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
 
----
+<br>
+
+[![Lucas Lima's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-64\&theme=github-compact\&hide_border=true)](https://github.com/Lucas-64)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
+
+<br>
 
 <div align="center">
   <h3>About me</h3>
@@ -27,17 +35,25 @@ I have worked with web development, system support, bug analysis, databases, doc
 
 I enjoy building real projects, organizing ideas into practical solutions, and using technology to improve processes, products, and teams.
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
+
+<br>
 
 ## 🚀 Currently focused on
 
-- Front-end development with **React**, **Next.js** and **TypeScript**
-- Project management, agile methodologies and delivery metrics
-- Process improvement, documentation and team organization
-- Building personal projects for portfolio and real-world validation
-- Studying AI, automation and productivity tools
+* Front-end development with **React**, **Next.js** and **TypeScript**
+* Project management, agile methodologies and delivery metrics
+* Process improvement, documentation and team organization
+* Building personal projects for portfolio and real-world validation
+* Studying AI, automation and productivity tools
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -54,18 +70,26 @@ I enjoy building real projects, organizing ideas into practical solutions, and u
   <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
+
+<br>
 
 ## 📌 Professional interests
 
-- 🔭 Front-end Development
-- ⚙️ Full Stack Development
-- 📊 Scrum Master, PMO and Agile Project Management
-- 🧩 Process improvement and software documentation
-- 🤖 AI, automation and productivity tools
-- 🎯 Building projects with real-world use cases
+* 🔭 Front-end Development
+* ⚙️ Full Stack Development
+* 📊 Scrum Master, PMO and Agile Project Management
+* 🧩 Process improvement and software documentation
+* 🤖 AI, automation and productivity tools
+* 🎯 Building projects with real-world use cases
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
+
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -73,17 +97,25 @@ I enjoy building real projects, organizing ideas into practical solutions, and u
   <img src="https://github-profile-trophy.vercel.app/?username=Lucas-64&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
+
+<br>
 
 ## 🎧 Spotify
 
 <div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qio8sdtqpwukto270fp2xvrpf&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qio8sdtqpwukto270fp2xvrpf\&cover_image=true\&theme=default\&show_offline=true\&background_color=121212\&interchange=true\&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
+
+<br>
 
 ## 🌎 My networks
 
@@ -105,12 +137,17 @@ I enjoy building real projects, organizing ideas into practical solutions, and u
   </a>
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4CFF33&height=2"/>
+
+<br>
 
 <div align="center">
-  <br>
   <p><b>Visitors</b></p>
   <img src="https://komarev.com/ghpvc/?username=Lucas-64&color=brightgreen&style=flat-square" />
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4CFF33&height=120&section=footer"/>
