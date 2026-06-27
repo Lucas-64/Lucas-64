@@ -61,29 +61,43 @@ I like to connect the technical side of development with a product and delivery 
 
 <br>
 
-## ⭐ Selected work & labs
+## ⭐ Featured Projects & Labs
+
+<div align="center">
+  <p>
+    A selection of projects and experiments where I combine front-end development, product thinking and delivery experience.
+  </p>
+</div>
+
+<br>
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio</h3>
       <p>
-        My personal website focused on presenting my experience, projects and career path in development and project management.
+        A personal website created to present my experience, projects and professional background through a clean and responsive interface.
       </p>
       <p>
-        <strong>Focus:</strong> Front-end, personal branding, responsive layout and content structure.
+        <strong>Stack:</strong> Front-end, responsive UI, personal branding
+      </p>
+      <p>
+        <strong>Focus:</strong> Layout, content structure, visual identity and professional positioning.
       </p>
       <a href="https://l64.net.br/" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-4CFF33?style=for-the-badge&logo=vercel&logoColor=black" alt="View project" />
       </a>
     </td>
-    <td width="50%">
-      <h3>🧩 Front-end Practice</h3>
+    <td width="50%" valign="top">
+      <h3>⚡ Front-end Interface Lab</h3>
       <p>
-        A continuous space for improving my skills with interfaces, layouts, components and web application structure.
+        A continuous practice space for improving modern interfaces, reusable components and web application structure.
       </p>
       <p>
-        <strong>Focus:</strong> React, Next.js, TypeScript, UI patterns and clean code.
+        <strong>Stack:</strong> React, Next.js, TypeScript, CSS
+      </p>
+      <p>
+        <strong>Focus:</strong> UI patterns, component architecture, responsiveness and clean code.
       </p>
       <a href="https://github.com/Lucas-64?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/View_Repositories-4CFF33?style=for-the-badge&logo=github&logoColor=black" alt="View repositories" />
@@ -91,31 +105,34 @@ I like to connect the technical side of development with a product and delivery 
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📄 AI Documentation Generator</h3>
       <p>
-        A local/offline lab for generating project documents with AI, templates and automation workflows.
+        A local lab focused on generating project documentation through AI-assisted workflows, templates and automation.
       </p>
       <p>
-        <strong>Focus:</strong> Automation, documentation, product thinking and future web interface.
+        <strong>Stack:</strong> Python, local LLMs, automation, document templates
+      </p>
+      <p>
+        <strong>Focus:</strong> Productivity, documentation flow, project management and future web interface.
       </p>
       <img src="https://img.shields.io/badge/Status-Private_Local_Lab-4CFF33?style=for-the-badge&logo=files&logoColor=black" alt="Private local lab" />
     </td>
-    <td width="50%">
-      <h3>📊 Agile & Delivery Background</h3>
+    <td width="50%" valign="top">
+      <h3>🎮 WhatsApp Game Bot</h3>
       <p>
-        Experience with Scrum, PMO routines, process organization, documentation, metrics and team collaboration.
+        A personal bot project created to run an interactive card and collection game inside WhatsApp groups.
       </p>
       <p>
-        <strong>Focus:</strong> Delivery, communication, process improvement and agile practices.
+        <strong>Stack:</strong> Node.js, TypeScript, SQLite, WhatsApp automation
       </p>
-      <img src="https://img.shields.io/badge/Agile_Mindset-4CFF33?style=for-the-badge&logo=azuredevops&logoColor=black" alt="Agile mindset" />
+      <p>
+        <strong>Focus:</strong> Game logic, commands, ranking, events and user interaction.
+      </p>
+      <img src="https://img.shields.io/badge/Status-Personal_Project-4CFF33?style=for-the-badge&logo=whatsapp&logoColor=black" alt="Personal project" />
     </td>
   </tr>
 </table>
-
-<br>
-
 <img width="100%" src="./assets/neon-line.svg" alt="Neon line separator" />
 
 <br>
