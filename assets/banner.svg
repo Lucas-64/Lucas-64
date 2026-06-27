@@ -89,13 +89,13 @@
     <text x="890" y="164" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="17">
       role: "Front-end",
     </text>
-    <text x="890" y="194" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="17">
-      stack: ["React", "Next.js", "TS"],
-    </text>
+    <text x="890" y="194" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="15">
+  stack: ["React", "Next", "TS"],
+</text>
     <text x="890" y="224" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="17">
       focus: "UI + Product Thinking",
     </text>
-    <text x="890" y="254" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="17">
+    <text x="890" y="254" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="15">
       mindset: "Build • Improve • Deliver"
     </text>
     
