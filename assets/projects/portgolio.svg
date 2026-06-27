@@ -1,0 +1,75 @@
+<svg width="600" height="320" viewBox="0 0 600 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Personal Portfolio</title>
+  <desc id="desc">Project card for Lucas Lima personal portfolio website built with HTML, CSS and JavaScript.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B0F14"/>
+      <stop offset="0.55" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#090C10"/>
+    </linearGradient>
+
+```
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(455 70) rotate(135) scale(300 240)">
+  <stop stop-color="#4CFF33" stop-opacity="0.24"/>
+  <stop offset="1" stop-color="#4CFF33" stop-opacity="0"/>
+</radialGradient>
+
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+  <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#4CFF33" stroke-width="0.6" opacity="0.10"/>
+</pattern>
+
+<filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+  <feGaussianBlur stdDeviation="5" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+```
+
+  </defs>
+
+  <rect width="600" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="600" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="600" height="320" rx="24" fill="url(#glow)"/>
+  <rect x="1" y="1" width="598" height="318" rx="23" stroke="#4CFF33" stroke-opacity="0.35"/>
+
+  <circle cx="515" cy="62" r="38" fill="#4CFF33" opacity="0.14" filter="url(#softGlow)"/>
+  <rect x="491" y="46" width="48" height="34" rx="6" stroke="#4CFF33" stroke-width="3"/>
+  <path d="M498 88H532" stroke="#4CFF33" stroke-width="3" stroke-linecap="round"/>
+  <path d="M515 80V88" stroke="#4CFF33" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="42" y="70" fill="#4CFF33" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="600">
+    LIVE PROJECT
+  </text>
+
+  <text x="42" y="122" fill="#E6EDF3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">
+    Personal Portfolio
+  </text>
+
+  <text x="42" y="166" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">
+    A static website focused on studies,
+  </text>
+
+  <text x="42" y="194" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">
+    projects and project management content.
+  </text>
+
+  <rect x="42" y="228" width="82" height="34" rx="17" fill="#4CFF33" fill-opacity="0.12" stroke="#4CFF33" stroke-opacity="0.4"/>
+  <text x="63" y="250" fill="#4CFF33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    HTML
+  </text>
+
+  <rect x="136" y="228" width="74" height="34" rx="17" fill="#4CFF33" fill-opacity="0.12" stroke="#4CFF33" stroke-opacity="0.4"/>
+  <text x="160" y="250" fill="#4CFF33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    CSS
+  </text>
+
+  <rect x="222" y="228" width="116" height="34" rx="17" fill="#4CFF33" fill-opacity="0.12" stroke="#4CFF33" stroke-opacity="0.4"/>
+  <text x="246" y="250" fill="#4CFF33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    JavaScript
+  </text>
+
+  <path d="M42 288 H558" stroke="#4CFF33" stroke-opacity="0.55" stroke-width="2" filter="url(#softGlow)"/>
+</svg>
